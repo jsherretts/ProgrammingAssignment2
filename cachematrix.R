@@ -1,4 +1,4 @@
-## Programming Assignment 2
+## Programming Assignment 2 for coursera 
 
 ## The following functions work to cache the inverse of a martix in order to 
 ## avoid repeat computation
